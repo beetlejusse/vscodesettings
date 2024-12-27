@@ -1,0 +1,132 @@
+{
+    "explorer.confirmDelete": false,
+    "code-runner.runInTerminal": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "workbench.productIconTheme": "fluent-icons",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "animations.Install-Method": "Apc Customize UI++",
+    "vscode_custom_css.imports": [
+        "file:///c:/Users/Vishal/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.1/dist/updateHandler.js"
+    ],
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.cursorSmoothCaretAnimation": "on",
+    "files.autoSave": "afterDelay",
+    "git.confirmSync": false,
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.wordWrap": "on",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "git.autofetch": true,
+    "terminal.integrated.confirmOnKill": "never",
+    "chatgpt.lang": "en",
+    "git.enableSmartCommit": true,
+    "git.openRepositoryInParentFolders": "never",
+    "tabnine.experimentalAutoImports": true,
+    "explorer.confirmDragAndDrop": false,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    },
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            // 80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "cmake.showOptionsMovedNotification": false,
+    "emulator.emulatorPathWindows": "C:\\Users\\Vishal\\AppData\\Local\\Android\\Sdk\\emulator",
+    "emulator.androidColdBoot": true,
+    "editor.autoClosingBrackets": "always",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "chaiSuttaExplorer.methodInfo": {
+        
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "scm.showOutgoingChanges": "always",
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "remote.portsAttributes": {
+        "5173": {
+            "protocol": "http"
+        }
+    },
+    "remote.forwardOnOpen": false,
+    "workbench.settings.applyToAllProfiles": [
+        "editor.fontFamily"
+    ],
+    "editor.fontFamily": "Space Mono, Consolas, 'Courier New', monospace",
+    "background.backgroundBlur": [
+        "0",
+        "0",
+        "0",
+        "0"
+    ],
+    "background.editorBackgrounds": [],
+    "background.windowBackgrounds": [],
+    "apc.iframe.style": "",
+    "apc.stylesheet": {
+        
+    },
+    "apc.imports": [
+        "file:///c:/Users/Vishal/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+    ],
+    "terminal.integrated.cursorStyle": "line",
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "hidden",
+    "update.mode": "manual",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.minimap.showSlider": "always",
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false,
+    "workbench.statusBar.visible": false,
+    "terminal.integrated.env.windows": {},
+    "console-ninja.featureSet": "Community",
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "background.autoInstall": true,
+    "background.backgroundOpacity": [
+        0.1,
+        0.1,
+        0.1,
+        0.1
+    ],
+    "background.backgroundSize": [
+        "Contain",
+        "Cover",
+        "Cover",
+        "Cover"
+    ],
+    "workbench.colorTheme": "Dark Chai",
+    "editor.minimap.enabled": false,
+    "editor.fontLigatures": false,
+    "terminal.integrated.env.linux": {},
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    }
+}
